@@ -1,0 +1,161 @@
+📍login page errors delay✅
+------------------------------------------
+📍vidoe call✅
+------------------------------------------
+📍status codes✅
+------------------------------------------
+📍making authentication middleware
+------------------------------------------
+📍streaming videos
+------------------------------------------
+📍axios stuck
+------------------------------------------
+📍authentication for downlaoding images✅ and files❌ and videos❌
+------------------------------------------
+📍set last message in chats after you send✅
+------------------------------------------
+📍sometimes events are not emitted (mostly in seen ing messages)
+------------------------------------------
+📍mode == "light" ? color: .......
+------------------------------------------
+📍swipable views
+------------------------------------------
+📍seeing images in a bigger size
+------------------------------------------
+📍sometimes does not show online when the user is online
+------------------------------------------
+📍2 step progress❌
+------------------------------------------
+
+
+
+------------------------------------------
+📍Normalize
+------------------------------------------
+❌😈😈😈😈refactoring: onImage onFile ... are wrong
+only onMessage and messagetype is in it😈😈😈😈❌
+------------------------------------------
+📍counting chat unreadmessagecounts in server
+and making isRead TRUE only the number of messages
+that are not read not all the messages
+and also sending the count to client to make
+only a few messages read not all the chats state messages
+------------------------------------------
+reasonless isReads in updating chats state
+------------------------------------------
+📍video editing with react
+------------------------------------------
+can not send headers after they are sent to client
+------------------------------------------
+📍infinite scroll
+------------------------------------------
+📍caching (redis)
+------------------------------------------
+📍react modal for cropping photo✅
+------------------------------------------
+reply messages
+------------------------------------------
+📍instead of saving 2 difference qualities of photos
+saving one quality and while sending to client lower the quality✅
+------------------------------------------
+📍sometimes image cropper does not show up
+and sometimes online user shows lastseen...
+------------------------------------------
+uuid, sometimes does not show message, file message download
+------------------------------------------
+📍caching images and messages
+------------------------------------------
+📍saving a lower quality of photos and bluring them for showing to load faster
+and also videos should not be downloaded only their thumbnail should be shown
+and for last message only the type should be gotten from the server not the 
+image itself
+------------------------------------------
+📍imageCropper not cropping✅ : zIndex
+------------------------------------------
+📍problem of libspng error that is related to
+frontend not sending true data ✅ : for images because of formdata limit
+------------------------------------------
+you can't upload while one is in progress problem
+------------------------------------------
+sometimes photo cropper does not show up
+------------------------------------------
+📍setMessage seen with socket.io✅
+------------------------------------------
+📍sometimes addes the message while there is no username in the url✅
+------------------------------------------
+📍sort contacts by last message date
+------------------------------------------
+making socket.on("online") and ... with useEffect
+to be happened only once✅
+------------------------------------------
+x?.y?. ...
+------------------------------------------
+using skeletons better
+------------------------------------------
+auth in socket.io
+------------------------------------------
+solving showing toast 2 times when uplaoding a 
+file when one is being uploaded
+------------------------------------------
+emptying inputs after sending✅
+------------------------------------------
+axios problem✅
+------------------------------------------
+📍checking which components and how many times
+they render and reducing unnecessary renders
+------------------------------------------
+📍giving an error to user when internet is off
+or server is down and letting user to request again
+------------------------------------------
+skeleton when loading✅
+------------------------------------------
+progrssbar while fetching data or uploading✅
+------------------------------------------
+progressbar while downloading an image
+------------------------------------------
+not letting user to uplaod another image
+while one is being uploaded and not showing
+progressbar when getting data while a progressbar
+is showing already✅
+------------------------------------------
+croping image for profile
+------------------------------------------
+📍editing profile
+------------------------------------------
+reading messages and giving 2 tick for users✅
+------------------------------------------
+counting number of unread messages✅
+------------------------------------------
+catching errors in server and react
+------------------------------------------
+not letting user to upload video instead
+of photo✅
+------------------------------------------
+creating group
+------------------------------------------
+adding description to video and images
+------------------------------------------
+deleting and editiong messages
+------------------------------------------
+seeing users profile in bigger size and
+downloading them
+------------------------------------------
+using a react video player for videos
+------------------------------------------
+cathcing errors with axios
+------------------------------------------
+📍scroll to bottom✅
+------------------------------------------
+recording voices
+------------------------------------------
+imojies
+------------------------------------------
+uplaoding other types of files✅
+------------------------------------------
+canceling sending for files
+------------------------------------------
+📍deleting avatars if no user have their links as their photoLink
+------------------------------------------
+not relying on user and if he changes elements
+------------------------------------------
+not sending request if not neccessary
